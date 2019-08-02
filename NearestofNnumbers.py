@@ -1,4 +1,7 @@
+# Program to find the Nearest two numbers among n numbers 
 def PrintNear(a):
+    # "a" is a list of N numbers
+    
     import math
     
     diff = math.fabs(a[0]-a[1])
