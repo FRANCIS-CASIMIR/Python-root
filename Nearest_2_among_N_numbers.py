@@ -1,6 +1,8 @@
-# Program to find the Nearest two numbers among n numbers 
+# Program to print the Nearest two numbers among n numbers 
 def PrintNear(a):
     # "a" is a list of N numbers
+    # diff is the differnece of two numbers
+    # l is the length of a list
     
     import math
     
